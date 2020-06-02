@@ -1,2 +1,14 @@
 Hi. 
 This is MATLAB codes for some numerical analysis methods.
+
+****
+bisection method
+composiet simpsons & composite trapezoidal rule
+jacobi method
+gauss seidel method
+least square line implementation
+newton's method
+lagrange implementation
+secant method
+problem 6 (attached)
+****
